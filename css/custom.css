@@ -1,0 +1,77 @@
+html, body {
+    font-family: 'Oswald', sans-serif;
+}
+
+#left-col {
+    border-right: 15px solid #3CA6DD;
+    width: 270px;
+    position: fixed;
+    top: 0;
+    z-index: 1010;
+    height: 100%;
+    background-color: #3A7DBB  ;
+}
+
+header h1 {
+    font-family: 'Oswald', sans-serif;
+    margin:50px;
+    color: white;
+}
+.separator {
+    padding-left: 30px; 
+    color:  #8CD8FF ;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 500;
+}
+
+.side-nav li a:not(.button) {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Cabin', sans-serif;
+    padding: 0;
+    padding-left: 40px;
+}
+
+h3 {
+        font-family: 'Oswald', sans-serif;
+}
+
+#right-col {
+    margin-left: 270px;
+}
+
+.darker {
+    background-color: rgba(226, 226, 226,50);
+    margin-top: -27px;
+    border-bottom: solid 4px #3CA6DD;
+}
+
+.titulo-curso {
+    margin-top: -33px;
+        font-family: 'Cabin', sans-serif;
+}
+
+.titulo-ficha {
+    background: rgba(30,30,30,0.4);
+    margin-left: -15px;
+    margin-top: -2px;
+    padding-left: 20px;   
+}
+
+.titulo-ficha h1 {
+    font-family: 'Cabin', sans-serif;
+    color: white;
+}
+
+.mensaje-superior-bienvenida {
+    background-color: #C8E1EF;
+    padding:10px;
+
+}
+.mensaje-superior-bienvenida h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.selected {
+    background-color: #3CA6DD; 
+}

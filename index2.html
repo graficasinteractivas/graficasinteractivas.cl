@@ -17,9 +17,8 @@
           <header>
             <h1>educa.io</h1>
           </header>
-          <ul class="side-nav">
-            <li><a href="#" class="active selected">Los más recientes...</a></li>   
-          </ul>
+
+
           <div class="separator">Categorías</div>
           <ul class="side-nav">
             <li><a href="#">Diseño</a></li>    
@@ -50,9 +49,7 @@
                 </div>
                 Por: {{curso.autor}}
             </div>
-            <div class="medium-6 large-4 columns">    
-              <a href="#" class="button right">Ver Curso</a>
-            </div> 
+              
           </div>  
           </div>
         </div> 
@@ -68,15 +65,9 @@
         .controller('fichasController', function(){
             console.log("creating scope.cursos")
             this.cursos = [
-                {titulo: 'Ruby on Rails', autor: 'Wil Alejandro', picture:'rails.png'}, 
-                {titulo: 'Blender Básico', autor: 'Carlos Guerrero', picture:'blender-basico.png'},
-
-                {titulo: 'Gimp Básico', autor: 'Tatica Leandro', picture:'gimp-basico.png'},   
-                {titulo: 'Angular', autor: 'Jose Luis Rivas', picture:'angular.png'}, 
-                {titulo: 'Inkscape', autor: 'Tatica Leandro', picture:'inkscape.png'}, 
-                {titulo: 'Blender Avanzado', 
-                 autor: 'Carlos Guerrero', 
-                 picture:'Liquidos_Cycles.jpg'},
+                {titulo: 'Blender Básico', autor: 'Carlos Guerrero', picture:'Liquidos_Cycles.jpg'},
+                {titulo: 'Blender Básico', autor: 'Carlos Guerrero', picture:'launch-orbit.jpg'},
+                {titulo: 'Blender Básico', autor: 'Carlos Guerrero', picture:'launch-orbit.jpg'},          
             ];
             this.curso = {titulo: 'Blender Básico', autor: 'Carlos Guerrero'}
             console.log(this.cursos)
