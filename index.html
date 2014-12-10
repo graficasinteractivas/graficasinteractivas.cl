@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Educa.io</title>
+    <title>GráficasInteractivas.CL</title>
     <link rel="stylesheet" href="css/normalize.css" />
     <link rel="stylesheet" href="css/foundation.css" />
     <link rel="stylesheet" href="css/custom.css" />
@@ -15,25 +15,19 @@
   <body>
       <div id='left-col'>
           <header>
-            <h1>educa.io</h1>
+            <h1>Gráficas Interactivas de Chile</h1>
           </header>
           <ul class="side-nav">
-            <li><a href="#" class="active selected">Los más recientes...</a></li>   
+            <li><a href="#" class="active selected">Las más recientes...</a></li>   
           </ul>
           <div class="separator">Categorías</div>
           <ul class="side-nav">
-            <li><a href="#">Diseño</a></li>    
-            <li><a href="#">Animación</a></li> 
-            <li><a href="#">3D</a></li> 
-            <li><a href="#">Programación</a></li> 
-            <li><a href="#">Fotografía</a></li> 
-            <li><a href="#">Juegos</a></li>
-          </ul>
-            <div class="separator">Aplicaciones</div>
-        <ul class="side-nav">
-            <li><a href="#">Inkscape</a></li>    
-            <li><a href="#">Blender</a></li> 
-            <li><a href="#">Gimp</a></li> 
+            <li><a href="#">Infografías</a></li>    
+            <li><a href="#">Salud</a></li> 
+            <li><a href="#">Actualidad</a></li> 
+            <li><a href="#">Sociedad</a></li> 
+            <li><a href="#">Historia</a></li> 
+            <li><a href="#">Otras</a></li>
           </ul>
           
           
@@ -51,7 +45,7 @@
                 Por: {{curso.autor}}
             </div>
             <div class="medium-6 large-4 columns">    
-              <a href="#" class="button right">Ver Curso</a>
+              <a href="#" class="button right">Ver más</a>
             </div> 
           </div>  
           </div>
@@ -68,15 +62,8 @@
         .controller('fichasController', function(){
             console.log("creating scope.cursos")
             this.cursos = [
-                {titulo: 'Ruby on Rails', autor: 'Wil Alejandro', picture:'rails.png'}, 
-                {titulo: 'Blender Básico', autor: 'Carlos Guerrero', picture:'blender-basico.png'},
-
-                {titulo: 'Gimp Básico', autor: 'Tatica Leandro', picture:'gimp-basico.png'},   
-                {titulo: 'Angular', autor: 'Jose Luis Rivas', picture:'angular.png'}, 
-                {titulo: 'Inkscape', autor: 'Tatica Leandro', picture:'inkscape.png'}, 
-                {titulo: 'Blender Avanzado', 
-                 autor: 'Carlos Guerrero', 
-                 picture:'Liquidos_Cycles.jpg'},
+                {titulo: 'Top 10 Causas de Muertes', autor: 'Carlos Guerrero', picture:'rails.png'}, 
+                {titulo: '60 años de Terremotos', autor: 'Carlos Guerrero', picture:'blender-basico.png'},
             ];
             this.curso = {titulo: 'Blender Básico', autor: 'Carlos Guerrero'}
             console.log(this.cursos)
