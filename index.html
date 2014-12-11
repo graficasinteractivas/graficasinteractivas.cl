@@ -35,17 +35,24 @@
       <div id='right-col' ng-controller="fichasController as cursos">
         <div ng-repeat="curso in cursos.cursos">
           <div class="row">  
+
+                <a href="{{curso.url}}" class="">
               <img src="./img/{{curso.picture}}" alt="slide 3" />
+              </a>
           </div>
           <div class="row darker">
+                <a href="{{curso.url}}" class="">
             <div class="medium-6 large-8 columns titulo-curso">
                 <div class="titulo-ficha">
+
                     <h1>{{curso.titulo}}</h1>
                 </div>
+
                 Por: {{curso.autor}}
             </div>
+                </a>
             <div class="medium-6 large-4 columns">    
-              <a href="#" class="button right">Ver más</a>
+                <a href="{{curso.url}}" class="button right">Ver más</a>
             </div> 
           </div>  
           </div>
@@ -62,8 +69,8 @@
         .controller('fichasController', function(){
             console.log("creating scope.cursos")
             this.cursos = [
-                {titulo: 'Top 10 Causas de Muertes', autor: 'Carlos Guerrero', picture:'rails.png'}, 
-                {titulo: '60 años de Terremotos', autor: 'Carlos Guerrero', picture:'blender-basico.png'},
+                {titulo: 'Top 10 Causas de Muertes', autor: 'Carlos Guerrero', picture:'top-salud.png', url:'guerrerocarlos/topmortalidad/'}, 
+                {titulo: 'Earthquakes in Chile since 1900', autor: 'Pablo Navarro', picture:'earthquakes.png', url:'pnavarrc/earthquakes-chile/'},
             ];
             this.curso = {titulo: 'Blender Básico', autor: 'Carlos Guerrero'}
             console.log(this.cursos)

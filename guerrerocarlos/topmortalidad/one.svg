@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.44"
+     inkscape:cx="317.68369"
+     inkscape:cy="734.4698"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1292"
+     inkscape:window-height="779"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffcf73;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       id="path2985"
+       sodipodi:cx="320"
+       sodipodi:cy="286.64789"
+       sodipodi:rx="77.14286"
+       sodipodi:ry="77.14286"
+       d="m 397.14286,286.64789 a 77.14286,77.14286 0 1 1 -154.28572,0 77.14286,77.14286 0 1 1 154.28572,0 z"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <path
+       style="fill:#ececec;fill-opacity:1;stroke:none"
+       d="M 243.15625 280.09375 C 242.97433 282.2552 242.84375 284.44776 242.84375 286.65625 C 242.84375 298.78901 245.66576 310.2557 250.65625 320.46875 C 255.54492 316.71698 258.84375 309.72573 258.84375 301.71875 C 258.84375 290.06917 251.88154 280.59154 243.15625 280.09375 z "
+       id="path3801"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#241f1c;fill-opacity:1;stroke:none"
+       id="path3771"
+       sodipodi:cx="295.83972"
+       sodipodi:cy="306.5047"
+       sodipodi:rx="2.8446128"
+       sodipodi:ry="3.4135354"
+       d="m 298.68433,306.5047 a 2.8446128,3.4135354 0 1 1 -5.68922,0 2.8446128,3.4135354 0 1 1 5.68922,0 z"
+       transform="matrix(1.4,0,0,1.1666667,-109.95049,-50.214216)"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <path
+       transform="matrix(1.4,0,0,1.1666667,-81.890997,-50.705329)"
+       d="m 298.68433,306.5047 a 2.8446128,3.4135354 0 1 1 -5.68922,0 2.8446128,3.4135354 0 1 1 5.68922,0 z"
+       sodipodi:ry="3.4135354"
+       sodipodi:rx="2.8446128"
+       sodipodi:cy="306.5047"
+       sodipodi:cx="295.83972"
+       id="path3773"
+       style="fill:#241f1c;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <path
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 303.375 312.4375 C 288.23511 312.4375 276.03125 324.61011 276.03125 339.75 C 276.03125 344.13212 277.10964 348.2694 278.9375 351.9375 C 285.58811 356.1298 292.90382 359.36431 300.71875 361.375 C 300.94798 361.42692 301.17641 361.48095 301.40625 361.53125 C 307.7215 362.91328 314.2574 363.69031 320.96875 363.78125 C 336.40713 363.59186 350.7346 358.86393 362.71875 350.875 C 364.21338 347.48144 365.0625 343.70758 365.0625 339.75 C 365.0625 324.61011 352.85864 312.4375 337.71875 312.4375 L 303.375 312.4375 z "
+       id="path3788"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <path
+       style="fill:#000000;fill-opacity:0.46698118;stroke:none"
+       d="m 280.47073,304.72073 c -0.92804,0 -1.6875,0.75946 -1.6875,1.6875 0,0.92804 0.75946,1.6875 1.6875,1.6875 l 34.6875,0 0,8.40625 c 0,0.92804 0.75946,1.6875 1.6875,1.6875 l 1.46875,0 c 0.92804,0 1.6875,-0.75946 1.6875,-1.6875 l 0,-8.40625 33.5,0 c 0.92804,0 1.65625,-0.75946 1.65625,-1.6875 0,-0.92804 -0.72821,-1.6875 -1.65625,-1.6875 z"
+       id="rect3781"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssscsssscssss"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <rect
+       style="fill:#f4e3d7;fill-opacity:1;stroke:none"
+       id="rect3775"
+       width="36.979965"
+       height="8.5338383"
+       x="277.06528"
+       y="297.97089"
+       ry="4.2669191"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <rect
+       ry="4.2669191"
+       y="297.40198"
+       x="320.30341"
+       height="8.5338383"
+       width="36.979965"
+       id="rect3779"
+       style="fill:#f4e3d7;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <rect
+       style="fill:#28170b;fill-opacity:1;stroke:none"
+       id="rect3791"
+       width="28.245115"
+       height="2.9841139"
+       x="304.88788"
+       y="325.23306"
+       ry="1.492057"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <path
+       style="fill:#ececec;fill-opacity:1;stroke:none"
+       d="M 250.5625 303.21875 C 248.59208 303.21875 246.66307 303.40637 244.78125 303.71875 C 249.63214 325.18138 263.41194 343.23026 282.03125 353.78125 C 284.33267 349.11213 285.625 343.83869 285.625 338.28125 C 285.625 318.91595 269.9278 303.21875 250.5625 303.21875 z "
+       id="path3793"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <path
+       style="fill:#ececec;fill-opacity:1;stroke:none"
+       d="M 396.8125 279.53125 C 388.33028 280.67523 381.71875 290.11654 381.71875 301.625 C 381.71875 302.48088 381.77227 303.32557 381.84375 304.15625 C 366.02165 307.93776 354.25 322.17511 354.25 339.15625 C 354.25 344.48011 355.42502 349.51758 357.5 354.0625 C 381.14854 340.88356 397.15625 315.65074 397.15625 286.65625 C 397.15625 284.25778 397.02669 281.87387 396.8125 279.53125 z "
+       id="path3806"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <path
+       style="fill:#ffcc00;fill-opacity:1;stroke:none"
+       d="m 320,209.5 c -28.01741,0 -52.52736,14.93542 -66.03125,37.28125 l -10.1875,0 c -5.04293,0 -8.70927,4.0655 -9.09375,9.09375 l -2,26.15625 c -0.38448,5.02825 4.05082,9.125 9.09375,9.125 l 155.90625,0 c 5.04293,0 9.47823,-4.09675 9.09375,-9.125 l -2,-26.15625 c -0.38448,-5.02825 -4.05082,-9.09375 -9.09375,-9.09375 l -9.65625,0 C 372.52736,224.43542 348.01741,209.5 320,209.5 z"
+       id="rect3763"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scsssssssscs"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <path
+       style="fill:#eccd00;fill-opacity:1;stroke:none"
+       d="m 250.84375,246.875 -4,44.5 6.3125,0 4,-44.5 z"
+       id="rect3816"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <path
+       id="path3823"
+       d="m 268.84375,246.875 -2,44.5 6.3125,0 2,-44.5 z"
+       style="fill:#eccd00;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#eccd00;fill-opacity:1;stroke:none"
+       d="m 286.84375,246.875 0,44.5 6.3125,0 0,-44.5 -6.3125,0 z"
+       id="path3825"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <path
+       id="path3827"
+       d="m 306.84375,246.875 0,44.5 6.3125,0 0,-44.5 -6.3125,0 z"
+       style="fill:#eccd00;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#eccd00;fill-opacity:1;stroke:none"
+       d="m 326.84375,246.875 0,44.5 6.3125,0 0,-44.5 -6.3125,0 z"
+       id="path3829"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <path
+       id="path3831"
+       d="m 346.84375,246.875 0,44.5 6.3125,0 0,-44.5 -6.3125,0 z"
+       style="fill:#eccd00;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#eccd00;fill-opacity:1;stroke:none"
+       d="m 364.84375,246.875 2,44.5 6.3125,0 -2,-44.5 z"
+       id="path3833"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+    <path
+       id="path3835"
+       d="m 382.84375,246.875 4,44.5 6.3125,0 -4,-44.5 z"
+       style="fill:#eccd00;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/guerrerocarlos/twoDots1.png"
+       inkscape:export-xdpi="206.73"
+       inkscape:export-ydpi="206.73" />
+  </g>
+</svg>
